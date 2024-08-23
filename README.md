@@ -2,6 +2,8 @@
 
 ### Group 34
 
+![ic_launcher-playstore](https://github.com/user-attachments/assets/4ab2879c-691b-4e41-9fd9-eab79d05d0c9)
+
 Aung Khant Moe  1007196
 
 Mali Janya 1007149
