@@ -2,7 +2,9 @@
 
 ### Group 34
 
-![ic_launcher-playstore](https://github.com/user-attachments/assets/4ab2879c-691b-4e41-9fd9-eab79d05d0c9)
+<img width="390" alt="Screenshot 2024-08-23 at 3 27 22 PM" src="https://github.com/user-attachments/assets/e8fa0180-efdd-44b1-bef2-2a41a1ad8f07">
+
+
 
 Aung Khant Moe  1007196
 
