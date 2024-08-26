@@ -1,24 +1,7 @@
-## 50.001 1D Project (VoluntNear)
 
-### Group 34
 
 <img width="390" alt="Screenshot 2024-08-23 at 3 27 22 PM" src="https://github.com/user-attachments/assets/e8fa0180-efdd-44b1-bef2-2a41a1ad8f07">
 
-
-
-Aung Khant Moe  1007196
-
-Mali Janya 1007149
-
-Pusti Megha 1007128
-
-Koo Rou Zhen 1007038
-
-Khoo Zi Qi 1006984
-
-Glenda Koh 1007013
-
-Justin Cho 1007496
 
 ### VoluntNear 
 
